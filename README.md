@@ -12,6 +12,5 @@ A passionate, curious, self taught full stack developer! :D
 ---
 [![](https://visitcount.itsvg.in/api?id=sswadi&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=swadi&show_icons=true&theme=transparent)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
